@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btn_login" type="id">1</item>
+    <item name="link_signup" type="id">2</item>
+    <item name="input_email" type="id">3</item>
+    <item name="input_password" type="id">4</item>
+</resources>
